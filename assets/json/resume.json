@@ -1,54 +1,54 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haoxin Lin",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "linhx@lamda.nju.edu.cn",
+    "phone": "N/A",
+    "url": "https://linhaoxin.com",
+    "summary": "A Ph.D. Student focing on Reinforcement Learning and Robotics",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "Nanjing",
+      "countryCode": "CN",
+      "region": "Jiangsu"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Zhihu",
+        "username": "Lam Ho3Yam",
+        "url": "https://www.zhihu.com/people/lin-50-56-8"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "School of Artificial Intelligence, Nanjing University",
+      "position": "Ph.D. Student",
+      "url": "N/A",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "summary": "N/A",
+      "highlights": ["N/A"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "N/A",
+      "location": "N/A",
+      "position": "N/A",
+      "url": "N/A",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "summary": "N/A",
+      "highlights": ["N/A"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "School of Artificial Intelligence, Nanjing University",
+      "location": "Nanjing, China",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
