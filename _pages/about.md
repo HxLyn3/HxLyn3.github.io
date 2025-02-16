@@ -6,12 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: lhx.jpg
+  image_circular: True # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Nanjing, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Ph.D. Student, <a href="https://lamda-rl.nju.edu.cn/">LAMDA-RL Group</a><br>
+  <a href="https://www.nju.edu.cn/EN/7f/6b/c7136a163691/page.htm">Department of Computer Science and Technology</a> <br />
+  <a href="http://keysoftlab.nju.edu.cn/">National Key Laboratory for Novel Software Technology</a> 
+  <a href="http://www.nju.edu.cn/">Nanjing University</a><br />
+Supervisor: Prof. <a href="http://lamda.nju.edu.cn/yuy/">Yang Yu</a> <br/>
+Email: linhx@lamda.nju.edu.cn <br/>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[ [Google scholar](https://scholar.google.com/citations?user=At1Sd0IAAAAJ&hl=en&oi=ao) ] [ [DBLP](https://dblp.org/pid/329/5771.html) ] [ [Research gate](https://www.researchgate.net/profile/Haoxin-Lin-3) ] [ [Github](https://github.com/HxLyn3) ] [ [Zhihu](https://www.zhihu.com/people/lin-50-56-8) ] [ [Code Space of LAMDA-RL Group](https://github.com/LAMDA-RL) ]
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+<p> Currently, I am a first-year PhD student of School of Artificial Intelligence in <a href="https://www.nju.edu.cn/EN/main.htm">Nanjing University</a> under the supervision of Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a> and also a member of <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, which is led by Prof. <a href="https://cs.nju.edu.cn/zhouzh/index.htm">Zhi-Hua Zhou</a>.  
+Before my Ph.D. research, I received my B.Sc. degree in Telecommunication Engineering in 2021 from <a href="https://www.sysu.edu.cn/sysuen/"> Sun Yat-sen University </a> . In September 2021, I was admitted to study for a M.Sc. degree in <a href="https://www.nju.edu.cn/EN/main.htm">Nanjing University</a>  under the supervision of  Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a> without entrance examination. From September 2024, I started studying for PhD degree under the supervision of Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a>. 
+
+**Research interest:**  I am interested in handling challenges of Reinforcement Learning (RL) in real-world applications. In particular, I focus my research topics on model-based RL and offline RL. I am also working to develop RL algorithms for robotics.
