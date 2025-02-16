@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: My publications sorted by year. \* indicates equal contribution.
+description: my publications sorted by year (* indicates equal contribution)
 nav: true
 nav_order: 2
 ---
