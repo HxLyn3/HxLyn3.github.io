@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ph.D. Student # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Haoxin
 middle_name: 
 last_name: Lin
@@ -28,8 +28,8 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: buefy # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dracula # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
