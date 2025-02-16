@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: My Blog # blog_name will be displayed in your blog page
-blog_description: Welcome to my blog! I am excited to share my personal insights, ideas, and experiences related to Reinforcement Learning and Robotics. If you have any thoughts or questions, please feel free to reach out to me at any time.
+blog_description: My personal insights, ideas, and experiences related to Reinforcement Learning and Robotics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
