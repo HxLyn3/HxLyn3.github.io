@@ -2,8 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: My publications sorted by year. \* indicates equal contributioncon.
-years: [2025, 2024, 2023]
+description: My publications sorted by year. \* indicates equal contribution.
 nav: true
 nav_order: 2
 ---
