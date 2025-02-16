@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://hxlyn3.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://HxLyn3.github.io/sitemap.xml
