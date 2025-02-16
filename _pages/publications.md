@@ -15,8 +15,6 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-#### Papers
-
 <div class="publications">
 
 {% bibliography %}
