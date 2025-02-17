@@ -47,8 +47,9 @@
   ],
   "education": [
     {
-      "institution": "School of Artificial Intelligence, Nanjing University",
+      "institution": "LAMDA Group, School of Artificial Intelligence, Nanjing University",
       "location": "Nanjing, China",
+      "url": "https://www.lamda.nju.edu.cn/CH.PhD_student.ashx",
       "area": "Computer Science",
       "studyType": "Ph.D. (successive postgraduate and doctoral programs of study)",
       "startDate": "2021-09-01",
@@ -57,6 +58,7 @@
     {
       "institution": "School of Electronics and Information Technology, Sun Yat-sen University",
       "location": "Guangzhou, China",
+      "url": "https://seit.sysu.edu.cn/undergraduate/inform",
       "area": "Telecommunication Engineering",
       "studyType": "Bachelor",
       "startDate": "2017-09-01",
