@@ -30,7 +30,7 @@ Ph.D. Student, <a href="https://lamda-rl.nju.edu.cn/">LAMDA-RL Group</a><br>
 Supervisor: Prof. <a href="http://lamda.nju.edu.cn/yuy/">Yang Yu</a> <br/>
 Email: linhx@lamda.nju.edu.cn <br/>
 
-[ [Google scholar](https://scholar.google.com/citations?user=At1Sd0IAAAAJ&hl=en&oi=ao) ] [ [DBLP](https://dblp.org/pid/329/5771.html) ] [ [Research gate](https://www.researchgate.net/profile/Haoxin-Lin-3) ] [ [Github](https://github.com/HxLyn3) ] [ [Zhihu](https://www.zhihu.com/people/lin-50-56-8) ]
+[ [Google Scholar](https://scholar.google.com/citations?user=At1Sd0IAAAAJ&hl=en&oi=ao) ] [ [DBLP](https://dblp.org/pid/329/5771.html) ] [ [Research Gate](https://www.researchgate.net/profile/Haoxin-Lin-3) ] [ [GitHub](https://github.com/HxLyn3) ] [ [Zhihu](https://www.zhihu.com/people/lin-50-56-8) ]
 
 #### Biography
 <p> Currently, I am a first-year PhD student of School of Artificial Intelligence in <a href="https://www.nju.edu.cn/EN/main.htm">Nanjing University</a> under the supervision of Prof. <a href="http://www.lamda.nju.edu.cn/yuy/">Yang Yu</a> and also a member of <a href="https://www.lamda.nju.edu.cn/MainPage.ashx">LAMDA Group</a>, which is led by Prof. <a href="https://cs.nju.edu.cn/zhouzh/index.htm">Zhi-Hua Zhou</a>.  
