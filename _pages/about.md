@@ -25,7 +25,7 @@ latest_posts:
 
 Ph.D. Student, <a href="https://lamda-rl.nju.edu.cn/">LAMDA-RL Group</a><br>
   <a href="https://ai.nju.edu.cn/">School of Artificial Intelligence</a> <br />
-  <a href="http://keysoftlab.nju.edu.cn/">National Key Laboratory for Novel Software Technology</a> 
+  <a href="http://keysoftlab.nju.edu.cn/">National Key Laboratory for Novel Software Technology</a> <br />
   <a href="http://www.nju.edu.cn/">Nanjing University</a><br />
 Supervisor: Prof. <a href="http://lamda.nju.edu.cn/yuy/">Yang Yu</a> <br/>
 Email: linhx@lamda.nju.edu.cn <br/>
